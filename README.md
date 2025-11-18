@@ -171,7 +171,7 @@ Build a four-page interactive Power BI dashboard:
 ## Dashboard Summaries
 
 ### Dashboard 1 – Brand Intelligence
-![Home Page Dashboard](images/home_page.png)
+![Home Page Dashboard](https://github.com/WittyJerry/Navigating-the-Digital-Landscape-Enhancing-Brand-Reputation/blob/main/Afritech%20dashboard%201.png)
 - Positive Sentiment: **41.01% (▲3%)**  
 - Total Complaints: **1.942K (▲150)**  
 - Total Reach: **24.22M (▲4.2%)**  
@@ -184,7 +184,7 @@ Build a four-page interactive Power BI dashboard:
 ---
 
 ### Dashboard 2 – Customer Insights
-![Customer & Sales Insights Dashboard](images/customer_sales.png)
+![Customer & Sales Insights Dashboard](https://github.com/WittyJerry/Navigating-the-Digital-Landscape-Enhancing-Brand-Reputation/blob/main/Afritech%20dashboard%202.png)
 - 200 Customers, Avg Age: **44**  
 - Total Purchase: **$58M**, Avg Income: **$61K**  
 - Customer Type: Returning **36%**, VIP **34%**, New **31%**  
@@ -195,7 +195,7 @@ Build a four-page interactive Power BI dashboard:
 ---
 
 ### Dashboard 3 – Social Media Engagement
-![Brand Sentiment & Social Media Dashboard](images/brand_sentiment.png)
+![Brand Sentiment & Social Media Dashboard](https://github.com/WittyJerry/Navigating-the-Digital-Landscape-Enhancing-Brand-Reputation/blob/main/Afritech%20dashboard%203.png)
 - Followers: **4B**, Engagement: **292M**, Mentions: **37M**  
 - Video Posts: **60% positive sentiment**  
 - Brand leads on TikTok, Instagram, LinkedIn  
@@ -205,7 +205,7 @@ Build a four-page interactive Power BI dashboard:
 ---
 
 ### Dashboard 4 – Transaction Trends
-![Customer Complaints & Crisis Dashboard](images/complaints_crisis.png)
+![Customer Complaints & Crisis Dashboard](https://github.com/WittyJerry/Navigating-the-Digital-Landscape-Enhancing-Brand-Reputation/blob/main/Afritech%20dashboard%204.png)
 - Lowest Price: **$100**, Highest: **$2K**  
 - Top Products: Laptop **3.2K**, Smartphone **2.8K**, Smartwatch **2.5K**  
 - Recall Rate: **54.61%**  
